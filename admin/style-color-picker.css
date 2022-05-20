@@ -1,0 +1,5 @@
+.wp-picker-holder,
+.wp-picker-input-wrap {
+	position : relative;
+	z-index : 99;
+}
